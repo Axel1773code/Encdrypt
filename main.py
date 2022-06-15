@@ -1,6 +1,7 @@
+import encdrypt
 def correr():
-  print('Welcome to EncDrypt')
-
+  print('Bienvenido a EncDrypt')
+  encdrypt()
 
 if __name__ == '__main__':
     correr()
