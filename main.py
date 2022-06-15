@@ -3,4 +3,4 @@ def correr():
 
 
 if __name__ == '__main__':
-    correr
+    correr()
